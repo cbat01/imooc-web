@@ -1,0 +1,216 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+}
+
+body
+{
+	background-color: #f5f5f5;
+}
+
+.wrap
+{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.nav
+{
+	height: 70px;
+	background-color: #FFF;
+	overflow: hidden;
+}
+
+.logo
+{
+	float: left;
+}
+
+.nav_left
+{
+	float: left;
+	width: 
+}
+
+.nav_left li
+{
+	float: left;
+	list-style-type: none;
+	line-height: 70px;
+	width: 100px;
+	text-align: center;
+}
+
+.nav_left a:link,.nav_left a:visited
+{
+	text-decoration: none;
+	color: #000;
+	font-family: "微软雅黑";
+	font-size: 16px;
+}
+
+.nav_left a:hover,.nav_left a:active
+{
+	text-decoration: none;
+	color: #000;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	background-color: #C00;
+	display: block;
+}
+
+.ad
+{
+	height: 310px;
+	overflow: hidden;
+}
+
+.news_roll
+{
+	height: 35px;
+	margin: 15px auto;
+}
+
+.news_roll_left
+{
+	background-color: #c00;
+	width: 150px;
+	float: left;
+	line-height: 35px;
+	text-align: center;
+}
+
+.news_roll_right
+{
+	line-height: 35px;
+	width: 840px;
+	float: left;
+	background-color: #222;
+	padding-left: 10px;
+}
+
+.txt
+{
+	font-family: "微软雅黑";
+	font-size: 16px;
+	color: #fff;
+}
+
+.lesson
+{
+	height: 150px;
+}
+
+
+.lesson1,.lesson3,.lesson2
+{
+	width: 330px;
+	height: 150px;
+	float: left;
+}
+
+.lesson2
+{
+	margin: 0 5px;
+}
+
+.p_txt
+{
+	text-align: center;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.content
+{
+	margin:15px 0 5px;
+	min-height: 300px;
+}
+
+.news_center,.activity,.contact
+{
+	width: 330px;
+	height: 300px;
+	float: left;
+}
+.activity
+{
+	margin: 0 5px;
+}
+
+.news_center_title,.activity_title,.contact_title
+{
+	height: 30px;
+	background-color: #c00;
+	padding-left: 15px;
+	line-height: 30px;
+	color: #fff;
+}
+
+
+.date
+{
+	width: 50px;
+	height: 89px;
+	float: left;
+}
+
+.date p{
+	display: inline-block;
+	width: 40px;
+	height: 48px;
+	background-color: #c00;
+	border-radius: 5px;
+	float: left;
+	color: #fff;
+	padding-top: 10px;
+}
+.news_detail
+{
+	float: left;
+	width :265px;
+	height: 80px;
+	margin: 5px;
+	line-height: 20px;
+}
+
+.date p
+{
+	margin:30px auto;
+	font-size: 14px;
+}
+
+.news_detail a
+{
+	text-decoration: none;
+	font-weight: bold;
+	color: #000;
+	margin-left: 5px;
+}
+
+.activity_content
+{
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+.contact_content p
+{
+	padding-top: 3px;
+	font-weight: bold;
+	line-height: 18px;
+}
+
+.footer
+{	
+	height: 25px;
+	background-color: #e8e8e8;
+	padding-top: 12px;
+}
+
+.footer p
+{
+	text-align: center;
+}
